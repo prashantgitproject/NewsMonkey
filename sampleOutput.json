@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Viaplay Cup: Celtic, Hearts & Hibs all in action in last 16",
+      "description": "Listen to Sportsound commentary of Kilmarnock v Celtic and follow updates from two more Viaplay Cup last-16 ties, plus the quarter-final draw.",
+      "url": "http://www.bbc.co.uk/sport/live/football/66504954",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+      "publishedAt": "2023-08-20T13:07:30.48306Z",
+      "content": "Heart of Midlothian: Clark, Offiah, Kent, Rowles, Sibbick, Cochrane, Nieuwenhof, Lowry, McKay, Vargas, Shankland.\r\nSubstitutes: McGovern, Kingsley, Grant, Boyce, Devlin, Halliday, Forrest, Denholm, T… [+218 chars]"
+    },
+    {
+      "source": { "id": "google-news-au", "name": "Google News (Australia)" },
+      "author": "Wide World of Sports",
+      "title": "Spain v England final LIVE: England keeper Mary Earps pulls off penalty save after VAR drama; Spain's Olga Carmona scores first in World Cup final - Wide World of Sports",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3b3MubmluZS5jb20uYXUvZm9vdGJhbGwvZmlmYS13b21lbnMtd29ybGQtY3VwLTIwMjMtbGl2ZS1zY29yZXMtc3BhaW4tZW5nbGFuZC1maW5hbC1yZXN1bHRzLWhpZ2hsaWdodHMtbGF0ZXN0LW5ld3MvMWU1ODIzZjEtZDI4Yi00MTBmLTljMzMtNzUzM2Y0ODZhM2Nl0gFGaHR0cHM6Ly9hbXAubmluZS5jb20uYXUvbGl2ZS1ibG9nLzFlNTgyM2YxLWQyOGItNDEwZi05YzMzLTc1MzNmNDg2YTNjZQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-08-20T11:50:18+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "Ben Hayward",
+      "title": "'Man United are the new Spurs' – Roy Keane slams former club after Tottenham defeat",
+      "description": "The Irishman did not mince his words as he criticised Erik ten Hag's side in his assessment of the game as a Sky Sports pundit",
+      "url": "https://www.fourfourtwo.com/news/man-united-are-the-new-spurs-roy-keane-slams-former-club-after-tottenham-defeat",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Mc2ptSeeFCbcsRqJyTuA5K-1200-80.jpg",
+      "publishedAt": "2023-08-20T08:00:00Z",
+      "content": "Manchester United legend Roy Keane tore into his former club following their defeat to Tottenham in the Premier League on Saturday, calling them \"the new Spurs\".\r\nKeane was often critical of Tottenha… [+2963 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": " Rooks x Pulisic Interview ️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/457604-rooks-x-pulisic-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-08-01T17:52:19.0557986Z",
+      "content": "Copyright © 2023 Bleacher Report, Inc. Turner Broadcasting System, Inc.\r\n All Rights Reserved.\r\n BleacherReport.com is part of Bleacher Report Turner Sports Network, part of the Turner Sports and Ent… [+200 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "Cedric Mullins Interview ⚾️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/457122-betts-x-mullins-full-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-08-01T17:52:17.8373521Z",
+      "content": "Copyright © 2023 Bleacher Report, Inc. Turner Broadcasting System, Inc.\r\n All Rights Reserved.\r\n BleacherReport.com is part of Bleacher Report Turner Sports Network, part of the Turner Sports and Ent… [+200 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    }
+  ]
+}
